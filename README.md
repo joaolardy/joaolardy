@@ -35,7 +35,7 @@ Além disso, domino outras tecnologias do ecossistema JS aplicadas em projetos q
   <a href="mailto:joaolardy@gmail.com">
     <img alt="Gmail red badge" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <p>Ou se ver um fusquinha marrom tocando um tim maia por BH</p>
+  <p>Ou buzine se ver um fusquinha marrom tocando "decobridor dos sete mares" por BH</p>
 </div>
 
 
