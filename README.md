@@ -28,7 +28,7 @@
   <img alt="git red badge" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
 </div>
 <h2>Sobre Mim</h2>
-<p>Natural de BH, </p>
+<p></p>
 <h2>Contato</h2>
 <div>
   <a href="https://www.linkedin.com/in/joaolardy/">
