@@ -1,6 +1,6 @@
 <h1>Desenvolvedor Full stack</h1>
 
-<h4>Belo horizontino, fusqueiro, apaixonado por tecnologia e sempre ouvindo Tim Maia. 😎🚗💻🎵</h4>
+<h4>Belo horizontino, fusqueiro, dev e sempre ouvindo Tim Maia. 😎🚗💻🎵</h4>
 <p>Prazer, sou Lardy, atualmente estudo Sistemas de Informação pela UFMG e trabalho com automação de processos utilizando Javascript puro na plataforma Sydle One.
 Além disso, domino outras tecnologias do ecossistema JS aplicadas em projetos que podem ser encontrados aqui no github.</p>
 <p>Como profissional, para além das minhas habilidades técnicas, sou reconhecido por ter uma comunicação clara e sempre honrar os compromissos assumidos, valores que carrego também para minha vida pessoal.</p>
