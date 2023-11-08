@@ -28,7 +28,7 @@ Além disso, domino outras tecnologias do ecossistema JS aplicadas em projetos q
   <img alt="git red badge" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
 </div>
 <h2>Me encontre:</h2>
-<p>Entre em contato pelo <a href="https://www.linkedin.com/in/joaolardy/">LinkedIn</a> ou pelo <a href="mailto:joaolardy@gmail.com">Gmail</a> (ou buzine se ver um fusquinha marrom tocando "decobridor dos sete mares")</p>
+<p>Pelo <a href="https://www.linkedin.com/in/joaolardy/">LinkedIn</a> ou pelo <a href="mailto:joaolardy@gmail.com">Gmail</a> (ou buzine se ver um fusquinha marrom tocando decobridor dos sete mares)</p>
 <div style="display: flex;">
   <a href="https://www.linkedin.com/in/joaolardy/">
     <img alt="LinkedIn blue badge" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
